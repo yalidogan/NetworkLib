@@ -1,0 +1,3 @@
+/home/admin/CLionProjects/test/Library/NetworkLib/build/CMakeFiles/NetworkLib.dir
+/home/admin/CLionProjects/test/Library/NetworkLib/build/CMakeFiles/edit_cache.dir
+/home/admin/CLionProjects/test/Library/NetworkLib/build/CMakeFiles/rebuild_cache.dir

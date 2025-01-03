@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/NetworkApp.dir/main.cpp.o -o NetworkApp  -Wl,-rpath,/home/admin/CLionProjects/test/Library/NetworkLib/build /home/admin/CLionProjects/test/Library/NetworkLib/build/NetworkLib.a 

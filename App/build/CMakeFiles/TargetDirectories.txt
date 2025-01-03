@@ -1,0 +1,3 @@
+/home/admin/CLionProjects/test/App/build/CMakeFiles/NetworkApp.dir
+/home/admin/CLionProjects/test/App/build/CMakeFiles/edit_cache.dir
+/home/admin/CLionProjects/test/App/build/CMakeFiles/rebuild_cache.dir
